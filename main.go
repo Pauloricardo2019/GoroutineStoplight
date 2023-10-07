@@ -93,3 +93,4 @@ func CountMessages(numberToIncrement int64) {
 	fmt.Println(fmt.Sprintf("runtime number: %d", number.Load()))
 
 }
+//
